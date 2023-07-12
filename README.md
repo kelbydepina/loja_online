@@ -4,7 +4,7 @@
 ## Curso: ENGENHARIA INFORMÁTICA
 ## Desciplina: Concepção e Análise de Algoritmos
 ## Titulo: GESTÃO DE SISTEMA DE VENDA ONLINE LOJA ALMADA
-## Alunos: Kelby de pina n°6772 Carlos Brito n°  Ineida Monteiro         Lacineia Monteiro 
+## Alunos: Kelby de pina n°6772 Carlos Brito n°6276  Ineida Monteiro         Lacineia Monteiro 
           
 
 
